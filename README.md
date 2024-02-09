@@ -1,8 +1,9 @@
 ![Cabeçalho](https://github.com/elmoneto/mapeando-osm/blob/main/img/header.gif)
 
 # Mapeando OSM
+Repositório de registro e organização das tarefas de mapeamento às quais me dedico no OpenStreetMap. 🔎 🗺️ 
 
-## Repositório de registro e organização das tarefas de mapeamento às quais me dedico no OpenStreetMap. 🔎 🗺️ 
+##Tarefas em Estados Brasileiros
 
 <img src="https://github.com/pierrelapalu/icones-bandeiras-br-uf/blob/master/dist/rounded/png-200/22-rio-grande-do-sul-rounded.png" width="24" height="16"> Rio Grande do Sul
 
