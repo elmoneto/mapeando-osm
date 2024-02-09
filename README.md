@@ -1,7 +1,6 @@
 ![Cabeçalho](https://github.com/elmoneto/mapeando-osm/blob/main/img/header.gif)
 
 # Mapeando OSM
-Repositório de registro e organização das tarefas de mapeamento às quais me dedico no OpenStreetMap. 🔎 🗺️ 
 
 ## Tarefas em Estados Brasileiros
 
